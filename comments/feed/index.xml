@@ -8,7 +8,7 @@
 <channel>
 	<title>Comentários sobre Tango Soft</title>
 	<atom:link href="https://tangosoft.tk/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tangosoft.tk</link>
+	<link>https://tangosoft.tk/</link>
 	<description>Só mais um site WordPress</description>
 	<lastBuildDate>Tue, 19 Feb 2019 01:35:13 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
